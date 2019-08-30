@@ -1,0 +1,19 @@
+\newcommand{\paint}[3]{
+    \begin{minipage}{#1}
+        \includegraphics[width=#1,height=#2]{#3}
+    \end{minipage} 
+}
+\newcommand{\myheader}{
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}rr}
+  && \multirow{4}*{\paint{2.6cm}{3.2cm}{./image.jpg}}\\
+  \specialrule{0em}{4pt}{4pt}
+  \textbf{\href{http://fengww2014.github.io}{\LARGE 冯巍巍}} & 18401693316$\,${\color{labelgrey}(电话)} &\\
+  中国科学技术大学10系未来网络实验室$\,${\color{labelgrey}(地址)} & \href{mailto:fengww@mail.ustc.edu.cn}{fengww@mail.ustc.edu.cn}$\,${\color{labelgrey}(邮件)} & \\
+   安徽省安庆市怀宁县$\,${\color{labelgrey}(籍贯)} &  北京邮电大学自动化学院$\,${\color{labelgrey}(本科)} 
+  \end{tabular*}\\\vspace{0.1in}
+%  \fancyfoot[L]{\footnotesize 最后更新: \today}
+%  \fancyfoot[R]{\footnotesize \url{http://example.com/resume-zh.pdf}}
+}
+
+\myheader
+
