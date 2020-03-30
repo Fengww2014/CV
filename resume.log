@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.10.19)  30 AUG 2019 19:34
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.10.19)  1 JAN 2020 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1548,37 +1548,37 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 File: ./image.jpg Graphic file (type bmp)
 <./image.jpg>
 
-Overfull \vbox (36.63817pt too high) detected at line 18
+Overfull \vbox (45.17836pt too high) detected at line 18
  []
 
 ) (./description/education.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
 ) (./description/skills.tex)
-(./description/projects.tex) (./description/awards.tex)
+(./description/projects.tex) (./description/awards.tex
 (e:/SoftWare/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
 [1
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 19.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 19.
+]) [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
  (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 19.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 19.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 17.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 19.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 17.
  ) 
 Here is how much of TeX's memory you used:
- 31964 strings out of 492956
- 653408 string characters out of 6133077
- 722485 words of memory out of 5000000
- 35602 multiletter control sequences out of 15000+600000
- 536910 words of font info for 58 fonts, out of 8000000 for 9000
+ 31944 strings out of 492956
+ 651724 string characters out of 6133077
+ 723485 words of memory out of 5000000
+ 35581 multiletter control sequences out of 15000+600000
+ 536918 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 57i,11n,64p,503b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,11n,64p,420b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (1 page).
+Output written on resume.xdv (2 pages, 29488 bytes).

@@ -1,0 +1,4 @@
+PWD E:/我的坚果云/资料/MyResume-master/MyResume-master/cv/description
+INPUT e:/SoftWare/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt
+INPUT education.tex
+OUTPUT education.log

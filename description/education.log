@@ -1,0 +1,516 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.10.19)  31 DEC 2019 16:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**education.tex
+(./education.tex
+LaTeX2e <2018-04-01> patch level 5
+! Undefined control sequence.
+l.1 \reslheading
+                {教育经历}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \reslheading{教
+                  育经历}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 教 in font nullfont!
+Missing character: There is no 育 in font nullfont!
+Missing character: There is no 经 in font nullfont!
+Missing character: There is no 历 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2   \begin{itemize}[
+                      leftmargin=*]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4       \ressubheading
+                        {中国科学技术大学}{硕士}{$\quad$信息学院10系（未来网络实验室）$\cdot$导师：谭小彬}...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4       \ressubheading
+                        {中国科学技术大学}{硕士}{$\quad$信息学院10系（未来网络实验室）$\cdot$导师：谭小彬}...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4       \ressubheading
+                        {中国科学技术大学}{硕士}{$\quad$信息学院10系（未来网络实验室）$\cdot$导师：谭小彬}...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<recently read> \ressubheading 
+                               
+l.4       \ressubheading
+                        {中国科学技术大学}{硕士}{$\quad$信息学院10系（未来网络实验室）$\cdot$导师：谭小彬}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no 国 in font nullfont!
+Missing character: There is no 科 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 技 in font nullfont!
+Missing character: There is no 术 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 硕 in font nullfont!
+Missing character: There is no 士 in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+Missing character: There is no 信 in font nullfont!
+Missing character: There is no 息 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 院 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 未 in font nullfont!
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no 网 in font nullfont!
+Missing character: There is no 络 in font nullfont!
+Missing character: There is no 实 in font nullfont!
+Missing character: There is no 验 in font nullfont!
+Missing character: There is no 室 in font nullfont!
+Missing character: There is no ） in font nullfont!
+Missing character: There is no 导 in font nullfont!
+Missing character: There is no 师 in font nullfont!
+Missing character: There is no ： in font nullfont!
+Missing character: There is no 谭 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 彬 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 至 in font nullfont!
+Missing character: There is no 今 in font nullfont!
+! Undefined control sequence.
+l.5       {\small
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7         \item{
+                  矩阵代数(88)， 模式识别(87)， 智能控制(89)， 算法设计与分析(82)，工程信息论(83)等}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 2--7
+[]$ $$\OMS/cmsy/m/n/10 ^^A$
+ []
+
+Missing character: There is no 矩 in font nullfont!
+Missing character: There is no 阵 in font nullfont!
+Missing character: There is no 代 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 式 in font nullfont!
+Missing character: There is no 识 in font nullfont!
+Missing character: There is no 别 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 智 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 控 in font nullfont!
+Missing character: There is no 制 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 算 in font nullfont!
+Missing character: There is no 法 in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 与 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 析 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 工 in font nullfont!
+Missing character: There is no 程 in font nullfont!
+Missing character: There is no 信 in font nullfont!
+Missing character: There is no 息 in font nullfont!
+Missing character: There is no 论 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no 等 in font nullfont!
+! Undefined control sequence.
+<recently read> \ressubheading 
+                               
+l.11       \ressubheading
+                         {北京邮电大学}{学士}{$\quad$自动化学院$\cdot$测控技术与仪器}{2014.09 --...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 北 in font nullfont!
+Missing character: There is no 京 in font nullfont!
+Missing character: There is no 邮 in font nullfont!
+Missing character: There is no 电 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 士 in font nullfont!
+Missing character: There is no 自 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 院 in font nullfont!
+Missing character: There is no 测 in font nullfont!
+Missing character: There is no 控 in font nullfont!
+Missing character: There is no 技 in font nullfont!
+Missing character: There is no 术 in font nullfont!
+Missing character: There is no 与 in font nullfont!
+Missing character: There is no 仪 in font nullfont!
+Missing character: There is no 器 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+! Undefined control sequence.
+l.12       {\small
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 11--13
+\OMS/cmsy/m/n/10 ^^A$
+ []
+
+! Undefined control sequence.
+l.14         \item{\href
+                        {https://upload-images.jianshu.io/upload_images/1543...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 ...f{https://upload-images.jianshu.io/upload_
+                                                  images/15436989-0ee2629b0f...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16         \item
+                   2017年秋获得推免机会进入中国科学技术大学（6/60）
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16         \item 2
+                    017年秋获得推免机会进入中国科学技术大学（6/60）
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16         \item 2
+                    017年秋获得推免机会进入中国科学技术大学（6/60）
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \end{itemize} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17       \end{itemize}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17       \end{itemize}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17       \end{itemize}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17       \end{itemize}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 年 in font cmr10!
+Missing character: There is no 秋 in font cmr10!
+Missing character: There is no 获 in font cmr10!
+Missing character: There is no 得 in font cmr10!
+Missing character: There is no 推 in font cmr10!
+Missing character: There is no 免 in font cmr10!
+Missing character: There is no 机 in font cmr10!
+Missing character: There is no 会 in font cmr10!
+Missing character: There is no 进 in font cmr10!
+Missing character: There is no 入 in font cmr10!
+Missing character: There is no 中 in font cmr10!
+Missing character: There is no 国 in font cmr10!
+Missing character: There is no 科 in font cmr10!
+Missing character: There is no 学 in font cmr10!
+Missing character: There is no 技 in font cmr10!
+Missing character: There is no 术 in font cmr10!
+Missing character: There is no 大 in font cmr10!
+Missing character: There is no 学 in font cmr10!
+Missing character: There is no （ in font cmr10!
+Missing character: There is no ） in font cmr10!
+! Missing } inserted.
+<inserted text> 
+                }
+l.17       \end{itemize}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.17       \end{itemize}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (84.64548pt too wide) in paragraph at lines 14--19
+[]\OML/cmm/m/it/10 mages=\OT1/cmr/m/n/10 15436989 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (198.4782pt too wide) in paragraph at lines 14--19
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ee\OT1/cmr/m/n/10 2629\OML/cmm/m/it/10 b\OT1/
+cmr/m/n/10 0\OML/cmm/m/it/10 fdf\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 c\OT1/cmr/m/n
+/10 1\OML/cmm/m/it/10 a:JPG\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 imageMogr\OT1/cmr/
+m/n/10 2\OML/cmm/m/it/10 =auto \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (53.91583pt too wide) in paragraph at lines 14--19
+\OML/cmm/m/it/10 orient=strip[] 
+ []
+
+
+Overfull \hbox (40.00012pt too wide) in paragraph at lines 14--19
+\OT1/cmr/m/n/10 20176\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 60$ 
+ []
+
+)
+! Emergency stop.
+<*> education.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 11 strings out of 492956
+ 125 string characters out of 6133077
+ 64986 words of memory out of 5000000
+ 4127 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 18i,3n,12p,212b,140s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

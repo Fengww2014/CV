@@ -1,0 +1,12 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "education.xdv" "education.pdf" "education" 0
+  "education.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "education.pdf"
+["xelatex"] 1577779883 "education.tex" "education.xdv" "education" 1577779883
+  "e:/SoftWare/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1539924706 3735776 5d56c01681b06d9d6e60ed47876b44f9 ""
+  "education.aux" 1577779786 9 a94a2480d3289e625eea47cd1b285758 ""
+  "education.tex" 1577779882 994 6514b9eae1e20d2a3b6ea96548e423ce ""
+  (generated)
+  "education.log"
+  "education.xdv"
